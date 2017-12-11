@@ -1,1 +1,1 @@
-GoSync
+Go samples
